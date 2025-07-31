@@ -9,8 +9,14 @@ Beyond academics, I actively engage with the crypto and trading space, where I�
 
 I’m deeply passionate about blockchain, fintech, and emerging technologies, and I enjoy building projects that bridge my computer science knowledge with real‑world applications. I’m currently seeking internship opportunities where I can contribute, learn, and grow as a developer and innovator, while continuing to explore the intersection of technology and digital communities.
 
-💻 Skills
-Languages: Python, Java, HTML, CSS, MySQL (basic)
+💻 Skills Languages: 
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 Tools & Platforms: WordPress, Canva, Git/GitHub, Raptor (Flowcharts)
 
