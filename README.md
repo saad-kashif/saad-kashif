@@ -47,8 +47,7 @@ Beyond academics, I have also worked in the **crypto & fintech space**, gaining 
 🎮 **[Quiz Application (Java)](https://github.com/saad-kashif/quiz-application-java)** – CRUD operations, input validation, modular methods  
 📚 **[Library Management System (Java)](https://github.com/saad-kashif/mini-library-java)** – Add, borrow, return books via console app  
 🔤 **[Word Scramble Game (Python)](https://github.com/saad-kashif/word-scramble-game-python)** – Randomized word puzzles with hints  
-🎮 **[Hangman Game (Python)](https://github.com/saad-kashif/hangman-game-python)** – Console-based interactive word guessing game  
-🌐 **[E‑Commerce Webstore (WordPress, HTML, CSS, MySQL)](https://github.com/saadkashif/ecommerce-webstore-wordpress)** – Simple webstore with social page  
+🎮 **[Hangman Game (Python)](https://github.com/saad-kashif/hangman-game-python)** – Console-based interactive word guessing game    
 
 ---
 
