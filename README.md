@@ -1,48 +1,79 @@
-👋 Hi, I’m Saad Kashif
-🎓 BS Computer Science Student at COMSATS University Islamabad
-💻 Aspiring Software Engineer | Tech Enthusiast | Crypto Community Manager
+# 👋 Hi, I’m Saad Kashif  
 
-✨ About Me
-I’m Saad Kashif, a BS Computer Science student at COMSATS University Islamabad with a strong passion for technology, coding, and digital innovation. Throughout my degree, I have built a solid foundation in programming with Python, Java, HTML, CSS, and MySQL, while also exploring tools such as Canva, WordPress, and Raptor Flowcharts to strengthen my problem‑solving and creative skills.
+🎓 **BS Computer Science Student** @ COMSATS University Islamabad  
+💻 Aspiring **Software Engineer** | Tech Enthusiast | Always Learning  
 
-Beyond academics, I actively engage with the crypto and trading space, where I’ve worked as a Community Manager and Twitter Manager for multiple projects, including GainzAlgo, $SHEP, Greenbit, CGAR, and Mowa. These roles allowed me to combine my technical knowledge with marketing, community growth, and content creation, giving me practical experience in leadership, communication, and teamwork.
+---
 
-I’m deeply passionate about blockchain, fintech, and emerging technologies, and I enjoy building projects that bridge my computer science knowledge with real‑world applications. I’m currently seeking internship opportunities where I can contribute, learn, and grow as a developer and innovator, while continuing to explore the intersection of technology and digital communities.
+## ✨ About Me  
+I’m a passionate Computer Science student with a strong foundation in **Python, Java, HTML, CSS, and MySQL**.  
+I enjoy building projects that combine **problem-solving, coding fundamentals, and real-world applications**.  
 
-💻 Skills Languages: 
+Beyond academics, I have also worked in the **crypto & fintech space**, gaining experience in **community management, social media growth, and content creation**.  
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+---
 
+## 💻 Skills  
 
-Tools & Platforms: WordPress, Canva, Git/GitHub, Raptor (Flowcharts)
+### **Languages**  
+<p align="left">  
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>  
+</p>  
 
-Other Skills: Community Management, Social Media Growth, Digital Marketing
+### **Tools & Platforms**  
+<p align="left">  
+  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>   
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>  
+  <img src="https://img.shields.io/badge/Raptor-009688?style=for-the-badge&logo=flow&logoColor=white"/>  
+</p>  
 
-🛠️ Projects
-📘 Multi-User Student Management System (Python) – Admin/Student roles, file handling, grade analysis
+### **Other Skills**  
+- Problem Solving  
+- Debugging  
+- Community Management  
+- Social Media Growth  
+- Digital Marketing  
 
-🎮 Quiz Application (Java) – CRUD operations, input validation, modular methods
+---
 
-🤖 SafeguardRobot (Telegram Bot Management) – Automated group security & contests
+## 🛠️ Projects  
 
-🌐 Experience
-Twitter Manager – GainzAlgo
-Created engaging posts & replies to grow brand visibility and boosted audience interactions.
+📘 **[Student Management System (Python)](https://github.com/saadkashif/student-management-system-python)** – Multi-user system (Admin & Student), file handling, grade analysis  
+🎮 **[Quiz Application (Java)](https://github.com/saadkashif/quiz-management-system-java)** – CRUD operations, input validation, modular methods  
+📚 **[Library Management System (Java)](https://github.com/saadkashif/mini-library-java)** – Add, borrow, return books via console app  
+🔤 **[Word Scramble Game (Python)](https://github.com/saadkashif/word-scramble-game-python)** – Randomized word puzzles with hints  
+🎮 **[Hangman Game (Python)](https://github.com/saadkashif/hangman-game-python)** – Console-based interactive word guessing game  
+🌐 **[E‑Commerce Webstore (WordPress, HTML, CSS, MySQL)](https://github.com/saadkashif/ecommerce-webstore-wordpress)** – Simple webstore with social page  
 
-Community Manager – $SHEP, Greenbit, CGAR, Mowa
-Managed communities on Twitter & Telegram, organized contests, and ran marketing campaigns.
+---
 
-📫 Connect With Me
-✉️ Email: saadkashif.work@gmail.com
+## 📚 Education  
+🎓 **BS Computer Science**  
+📍 COMSATS University Islamabad  
+📅 Feb 2024 – Feb 2027 (Expected)  
 
-🔗 LinkedIn: linkedin.com/in/saadkashif
+---
 
-🐦 Twitter (X): @Crypto_MonkeyX
+## 🎯 Activities  
+- **Member of ILC & IEEE Societies** at COMSATS  
+- **Community Manager / Twitter Manager** for projects including:  
+  - GainzAlgo  
+  - $SHEP  
+  - Greenbit  
+  - CGAR  
+  - Mowa  
+- Organized contests, grew communities, and created engaging content on **Twitter (X)** and **Telegram**  
 
-🖥️ GitHub: github.com/saadkashif
+---
 
-⭐ Always learning, always building. Let’s connect and grow together!
+## 📫 Connect With Me  
+✉️ **Email:** saadkashif.work@gmail.com  
+🔗 **LinkedIn:** [linkedin.com/in/saadkashif](https://linkedin.com/in/saadkashif)   
+🖥️ **GitHub:** [github.com/saadkashif](https://github.com/saadkashif)  
+
+⭐ Always learning, always building. Let’s connect and grow together!  
