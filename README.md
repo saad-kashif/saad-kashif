@@ -43,11 +43,11 @@ Beyond academics, I have also worked in the **crypto & fintech space**, gaining 
 
 ## 🛠️ Projects  
 
-📘 **[Student Management System (Python)](https://github.com/saadkashif/student-management-system-python)** – Multi-user system (Admin & Student), file handling, grade analysis  
-🎮 **[Quiz Application (Java)](https://github.com/saadkashif/quiz-management-system-java)** – CRUD operations, input validation, modular methods  
-📚 **[Library Management System (Java)](https://github.com/saadkashif/mini-library-java)** – Add, borrow, return books via console app  
-🔤 **[Word Scramble Game (Python)](https://github.com/saadkashif/word-scramble-game-python)** – Randomized word puzzles with hints  
-🎮 **[Hangman Game (Python)](https://github.com/saadkashif/hangman-game-python)** – Console-based interactive word guessing game  
+📘 **[Student Management System (Python)](https://github.com/saad-kashif/student-management-system)** – Multi-user system (Admin & Student), file handling, grade analysis  
+🎮 **[Quiz Application (Java)](https://github.com/saad-kashif/quiz-application-java)** – CRUD operations, input validation, modular methods  
+📚 **[Library Management System (Java)](https://github.com/saad-kashif/mini-library-java)** – Add, borrow, return books via console app  
+🔤 **[Word Scramble Game (Python)](https://github.com/saad-kashif/word-scramble-game-python)** – Randomized word puzzles with hints  
+🎮 **[Hangman Game (Python)]()** – Console-based interactive word guessing game  
 🌐 **[E‑Commerce Webstore (WordPress, HTML, CSS, MySQL)](https://github.com/saadkashif/ecommerce-webstore-wordpress)** – Simple webstore with social page  
 
 ---
